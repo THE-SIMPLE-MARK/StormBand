@@ -1,4 +1,4 @@
 My Discord server: https://discord.gg/5KV3ncvmuJ
 # Q&A:
-* **Q:** Why is this project not open source?  
-  **A:** I do not want to have my project reuploaded to the workshop with zero effort. Anyone can do it and the developers of the game do nothing about it. Questions are welcome in my Discord server if you have any questions about the project.
+* **Q:** Why is this project made hard to read in-game?  
+  **A:** I prefer people to look at the real source/where they can contribute/follow etc. - than take snippets out of context/try to faff with something they shouldn't be.
