@@ -3,4 +3,4 @@ Developed using LifeBoatAPI - Stormworks Lua plugin for VSCode - https://code.vi
 **You must install LifeBoatAPI for minimizing and debugging!**
 # Q&A:
 * **Q:** Why is this project made hard to read in-game?  
-  **A:** I prefer people to look at the real source/where they can contribute/follow etc. - than take snippets out of context/try to faff with something they shouldn't be.
+  **A:** I prefer people to look at the real source where they can contribute, follow etc. - than take snippets out of context and try to faff with something they shouldn't be.
